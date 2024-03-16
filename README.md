@@ -11,7 +11,7 @@ Made in Flutterflow (No-Code Tool)
 Link - https://app.flutterflow.io/project/view-assist-ai-qemoki
 
 Presentation Video
-Link - 
+Link - https://drive.google.com/file/d/1yzzXFBiqytujkdnMpXEzn1pS1p5fof33/view?usp=sharing
 
 Powerpoint Presentation of the Project
 Link - https://drive.google.com/file/d/1o4067Y8t2FVJvOmNQTNGjaFmRDROkWia/view?usp=sharing
